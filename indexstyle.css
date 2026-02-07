@@ -1,0 +1,22 @@
+img {
+border: 5px solid purple;
+
+}
+
+body{
+    background-image: url(images/hwbg.jpg);
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: larger;
+  font-weight: 500;
+  color: black
+}
+
+br{
+    font-family: "Times New Roman", Times, serif;
+  font-size: larger;
+  font-weight: 500;
+  color: black
+}
